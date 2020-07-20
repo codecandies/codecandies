@@ -1,4 +1,8 @@
-### Hi there 👋
+## @nicobruenjes 🤬
+
+![profile pic](http://nicobruenjes.de/wp-content/uploads/2013/04/about-nico-960x485.jpg)
+
+TL;DR Nico Brünjes works as head of frontend development on the german news website [ZEIT ONLINE](https://www.zeit.de). He conceives of, builds and programs  accessible and standard conform websites in HTML, CSS and Javascript for more than 15 years.
 
 <!--
 **codecandies/codecandies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
