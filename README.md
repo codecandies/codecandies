@@ -1,6 +1,6 @@
 ## @nicobruenjes 🤬
 
-![feeling slumpfy](https://couchblog.de/wp-content/uploads/2016/10/IMG_0709.jpg)
+![feeling slumpfy](https://couchblog.de/images/IMG_0709.jpg)
 
 TL;DR Nico Brünjes works as head of frontend development on the german news website [ZEIT ONLINE](https://www.zeit.de). He conceives of, builds and programs  accessible and standard conform websites in HTML, CSS and Javascript for more than 15 years.
 
